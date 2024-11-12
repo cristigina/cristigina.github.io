@@ -20,8 +20,26 @@
                 href="https://cristigina.github.io/"
                 />
   </url><url>
-    <loc>https://cristigina.github.io/a-brief-start/</loc>
+    <loc>https://cristigina.github.io/p/a-brief-start/</loc>
     <lastmod>2024-11-12T23:59:21+08:00</lastmod>
+  </url><url>
+    <loc>https://cristigina.github.io/post/</loc>
+    <lastmod>2024-11-12T23:59:21+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://cristigina.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://cristigina.github.io/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cristigina.github.io/post/"
+                />
   </url><url>
     <loc>https://cristigina.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -68,24 +86,6 @@
   </url><url>
     <loc>https://cristigina.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cristigina.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://cristigina.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://cristigina.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cristigina.github.io/post/"
-                />
   </url><url>
     <loc>https://cristigina.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
