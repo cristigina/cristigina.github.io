@@ -38,9 +38,6 @@
                 href="https://cristigina.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://cristigina.github.io/zh-cn/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cristigina.github.io/zh-cn/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -73,6 +70,12 @@
                 />
   </url><url>
     <loc>https://cristigina.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cristigina.github.io/zh-cn/categories/%E5%9B%BE%E7%89%87%E6%8F%92%E5%85%A5/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cristigina.github.io/zh-cn/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cristigina.github.io/zh-cn/page/</loc>
