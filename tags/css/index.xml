@@ -7,7 +7,17 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cristigina.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 Nov 2024 23:59:21 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A Brief Start</title>
+        <link>https://cristigina.github.io/p/a-brief-start/</link>
+        <pubDate>Tue, 12 Nov 2024 23:59:21 +0800</pubDate>
+        
+        <guid>https://cristigina.github.io/p/a-brief-start/</guid>
+        <description>&lt;p&gt;proxy set in Vue: vue.config.js
+port set in JavaWeb: Mapping &amp;amp; properties&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://cristigina.github.io/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
