@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Vue on 演示站点</title>
+        <title>Vue on MinCaltx</title>
         <link>https://cristigina.github.io/tags/vue/</link>
-        <description>Recent content in Vue on 演示站点</description>
+        <description>Recent content in Vue on MinCaltx</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
