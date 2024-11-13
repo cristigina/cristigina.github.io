@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Vue on 演示站点</title>
-        <link>https://cristigina.github.io/tags/vue/</link>
-        <description>Recent content in Vue on 演示站点</description>
+        <title>前/后端 on 演示站点</title>
+        <link>https://cristigina.github.io/categories/%E5%89%8D/%E5%90%8E%E7%AB%AF/</link>
+        <description>Recent content in 前/后端 on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 12 Nov 2024 23:59:21 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 Nov 2024 23:59:21 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/categories/%E5%89%8D/%E5%90%8E%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>vue跨域设置</title>
         <link>https://cristigina.github.io/p/vue%E8%B7%A8%E5%9F%9F%E8%AE%BE%E7%BD%AE/</link>
         <pubDate>Tue, 12 Nov 2024 23:59:21 +0800</pubDate>
