@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>神经网络 on MinCaltx</title>
+        <link>https://cristigina.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+        <description>Recent content in 神经网络 on MinCaltx</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Wed, 13 Nov 2024 13:08:25 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>对流换热系数</title>
+        <link>https://cristigina.github.io/p/%E5%AF%B9%E6%B5%81%E6%8D%A2%E7%83%AD%E7%B3%BB%E6%95%B0/</link>
+        <pubDate>Wed, 13 Nov 2024 13:08:25 +0800</pubDate>
+        
+        <guid>https://cristigina.github.io/p/%E5%AF%B9%E6%B5%81%E6%8D%A2%E7%83%AD%E7%B3%BB%E6%95%B0/</guid>
+        <description>&lt;p&gt;高温高压的制冷剂蒸汽在进入冷凝器后分为三个阶段，对应三个区域：过热区，两相区，过冷区。&lt;/p&gt;
+&lt;p&gt;第一个阶段：气态的制冷剂通过对流换热向管壁放热，管外翅片的空气通过对流换热从管壁上吸热，为简化计算，此阶段假设管内外压降均为0，管内蒸汽温度不断降低吗，直到达到饱和温度。&lt;/p&gt;
+&lt;p&gt;第二阶段：管内制冷剂处于气液两相混合的状态，通过释放潜热在恒温恒压的状态下与管外翅片区域的空气进行换热，直到蒸汽完全消失，制冷剂变为饱和液态。&lt;/p&gt;
+&lt;p&gt;第三阶段：液态制冷剂在湍流下与管外空气进行换热，直到离开冷凝器。&lt;/p&gt;
+&lt;p&gt;翅片管式换热器的对流换热系数分为管内制冷剂区域和管外空气区域两部分。管内外均需要通过流体的普朗特数计算得到对流换热系数， $Pr$  通过公式(1)计算得到：翅片管式换热器的对流换热系数分为管内制冷剂区域和管外空气区域两部分。管内外均需要通过流体的普朗特数计算得到对流换热系数， $Pr$  通过公式(1)计算得到：&lt;/p&gt;
+&lt;h3 id=&#34;管内对流换热分析&#34;&gt;管内对流换热分析
+&lt;/h3&gt;&lt;h4 id=&#34;过热区&#34;&gt;过热区
+&lt;/h4&gt;&lt;p&gt;此阶段制冷剂为过饱和蒸汽，
+纯液体换热特点描述。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
