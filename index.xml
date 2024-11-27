@@ -7,7 +7,33 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 15:20:45 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Nov 2024 23:29:49 +0800</lastBuildDate><atom:link href="https://cristigina.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Algorithm Introduction Notes</title>
+        <link>https://cristigina.github.io/p/algorithm-introduction-notes/</link>
+        <pubDate>Mon, 25 Nov 2024 23:29:49 +0800</pubDate>
+        
+        <guid>https://cristigina.github.io/p/algorithm-introduction-notes/</guid>
+        <description>&lt;p&gt;page48&lt;/p&gt;
+&lt;script src=&#34;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;p&gt;$$
+T(n) = 2T(\lfloor x/2  \rfloor)+2&lt;br&gt;
+$$
+推定其解的形式也是
+$$
+T(n)=\Omicron(nlgn)
+$$
+验证：
+先假设存在一个小正整数m&amp;lt; n成立   (解释：这里即为数学归纳法的n=0或者n=1，这里的思路是根据假设来验证后续大于m的情况下猜想也成立)
+则对于$ m=\lfloor n/2 \rfloor $ 有
+$$
+T(\lfloor n/2 \rfloor)\leq c(\lfloor n/2 \rfloor)lg(\lfloor n/2 \rfloor)\
+\dots\
+\dots
+$$
+对后续情况验证后，回头证明开始的边界条件下（即m时确实成立）&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Javaweb Quickstart02</title>
         <link>https://cristigina.github.io/p/javaweb-quickstart02/</link>
         <pubDate>Thu, 14 Nov 2024 15:20:45 +0800</pubDate>
